@@ -1,2 +1,3 @@
 # Lipped-Channel-Shape-Optimization
-OPTIMAL DESIGN OF CFS LIPPED CHANNELS USING APSO
+
+This code aims to present a practical method for optimizing cold-formed steel (CFS) lipped channel beam-columns using an Accelerated Particle Swarm Optimization method (APSO). To eliminate impracticable cross-section shapes from the optimization results, several manufacturing and construction constraints are applied into the optimization process. Targeting this goal,different lipped channel sections prototypes were optimized with respect to their nominal strength, combing the Finite Strip Method (FSM), which provides the critical buckling loads, and the Direct Strength Method (DSM).
